@@ -1,16 +1,16 @@
 # Vue Best Practices
 
-* Basic Rules
-* Naming
-* Alignment
-* Quotes
-* Props
-* Data
-* Directives
-* Closing tags
-* Component usage within templates
-* Ordering
-* :key
+* [Basic Rules](#basic-rules)
+* [Naming](#naming)
+* [Alignment](#alignment)
+* [Quotes](#quotes)
+* [Props](#props)
+* [Data](#data)
+* [Directives](#directives)
+* [Closing tags](#closing-tags)
+* [Component usage within template](#component-usage-within-template)
+* [Ordering](#ordering)
+* [:key](#:key)
 
 # Basic Rules
 * The service has its own file
